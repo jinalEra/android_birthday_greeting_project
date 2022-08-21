@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "wid_android_proj2"
